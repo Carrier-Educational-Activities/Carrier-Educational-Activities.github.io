@@ -2,7 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://Carrier-Educational-Activities.github.io/index/</loc>
+    <lastmod>2017-05-29T15:18:15+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Carrier-Educational-Activities.github.io/fy-2015-carrier-educational-activities-report/</loc>
+    <lastmod>2017-05-29T15:01:35+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://Carrier-Educational-Activities.github.io/</loc>
+    <lastmod>2017-05-29T15:18:15+09:00</lastmod>
     <priority>0</priority>
   </url>
   
